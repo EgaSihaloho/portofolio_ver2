@@ -21,12 +21,21 @@ h2 {
 
 .jumbotron {
   padding-top: 6rem;
-  background-color: #7d9bc3;
+  /* background-color: #d3ebcd; */
   margin-bottom: 1rem;
+  background-image: url("/picture/6221846.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 0;
+}
+
+#about,
+#contacts {
+  background-color: #e2edff;
 }
 
 #projects {
-  background-color: #e2edff;
+  background-color: #ffff;
 }
 
 section {
