@@ -1,5 +1,6 @@
 html {
   scroll-behavior: smooth;
+  border: none;
 }
 
 nav {
@@ -23,7 +24,6 @@ h2 {
   padding-top: 6rem;
   /* background-color: #d3ebcd; */
   margin-bottom: 1rem;
-  background-image: url("/picture/6221846.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 0;
